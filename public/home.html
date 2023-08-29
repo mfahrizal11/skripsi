@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web personal</title>
+    <link rel="stylesheet" href="assets/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase.js"></script>
+    <script src="assets/lampu.js"></script>
+</head>
+
+<body>
+
+    <header>
+        <h1 class="logo">Smart House</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="control.html">Control</a>
+                </li>
+                <li>
+                    <a href="#">History</a>
+                </li>
+            </ul>
+        </nav>
+        <img src="assets/foto/user.png" alt="profil" class="profil">
+    </header>
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <p>Teras</p>
+            <p id="statusLampuTeras"></p>
+        </div>
+        <div class="grid-item">
+            <p>Tamu</p>
+            <p id="statusLampuTamu"></p>
+        </div>
+        <div class="grid-item">
+            <p>Kamar 1</p>
+            <p id="statusLampuKamar1"></p>
+        </div>
+        <div class="grid-item">
+            <p>Kamar 2</p>
+            <p id="statusLampuKamar2"></p>
+        </div>
+        <div class="grid-item">
+            <p>Dapur</p>
+            <p id="statusLampuDapur"></p>
+        </div>
+        <div class="grid-item">
+            <p>Toilet</p>
+            <p id="statusLampuToilet"></p>
+        </div>
+    </div>
+
+    <!-- firebase -->
+    <script src="https://www.gstatic.com/firebasejs/5.9.4/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.3.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.1.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.1.1/firebase-database.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+                apiKey: "AIzaSyAThfImJZpVTK5Zm9SAIiZ-yeIGL2NAQjY",
+                authDomain: "skripsi-6a6f2.firebaseapp.com",
+                databaseURL: "https://skripsi-6a6f2-default-rtdb.firebaseio.com",
+                projectId: "skripsi-6a6f2",
+                storageBucket: "skripsi-6a6f2.appspot.com",
+                messagingSenderId: "257791345812",
+                appId: "1:257791345812:web:86e2954521a30521b9a081",
+                measurementId: "G-9M95CDD0J8"
+            }
+            // Initialize Firebase
+        firebase.initializeApp(firebaseConfig)
+            // firebase.analytics();
+    </script>
+</body>
+
+</html>
