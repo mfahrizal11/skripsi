@@ -69,7 +69,7 @@
 
             </li>
             <li class="nav-item">
-                <a class="nav-link collapsed" href="#">
+                <a class="nav-link collapsed" href="otamatis.html">
                     <i class="fas fa-fw fa-wrench"></i>
                     <span>automatic</span>
                 </a>
@@ -119,7 +119,7 @@
 
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4 mt-4">
-                        <h1 class="h3 mb-0 text-gray-800">Manual</h1>
+                        <h1 class="h3 mb-0 text-gray-800">otomatis</h1>
 
                     </div>
 
@@ -133,107 +133,22 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Teras</div>
+                                                status</div>
                                         </div>
                                         <div class="col-auto h5 mb-0 font-weight-bold text-gray-800">
-                                            <button class="to btn btn-success" id="on">ON</button>
-                                            <button class="to btn btn-danger" id="off">OFF</button>
+                                            <button class="to7 btn btn-success" id="otomatis">otomatis</button>
+                                            <button class="to7 btn btn-danger" id="manual">manual</button>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-primary shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Tamu</div>
-                                        </div>
-                                        <div class="col-auto h5 mb-0 font-weight-bold text-gray-800">
-                                            <div>
-                                                <button class="to2 btn btn-success" id="on2">ON</button>
-                                                <button class="to2 btn btn-danger" id="off2">OFF</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-primary shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Kamar1</div>
-                                        </div>
-                                        <div class="col-auto h5 mb-0 font-weight-bold text-gray-800">
-                                            <button class="to3 btn btn-success" id="on3">ON</button>
-                                            <button class="to3 btn btn-danger" id="off3">OFF</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-primary shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Kamar2</div>
-                                        </div>
-                                        <div>
-                                            <button class="to4 btn btn-success" id="on4">ON</button>
-                                            <button class="to4 btn btn-danger" id="off4">OFF</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-primary shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Dapur</div>
-                                        </div>
-                                        <div class="col-auto h5 mb-0 font-weight-bold text-gray-800">
-                                            <button class="to5 btn btn-success" id="on5">ON</button>
-                                            <button class="to5 btn btn-danger" id="off5">OFF</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-primary shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Toilet</div>
-                                        </div>
-                                        <div class="col-auto h5 mb-0 font-weight-bold text-gray-800">
-                                            <button class="to6 btn btn-success" id="on6">ON</button>
-                                            <button class="to6 btn btn-danger" id="off6">OFF</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
 
 
                     </div>
                     <!-- /.container-fluid -->
-                    <button id="predictButton">Prediksi Lampu</button>
+
                 </div>
                 <!-- End of Main Content -->
 
@@ -295,21 +210,6 @@
             };
             // Initialize Firebase
             firebase.initializeApp(firebaseConfig);
-        </script>
-        <script>
-            document.getElementById("predictButton").addEventListener("click", function() {
-                var currentTime = new Date().toLocaleTimeString();
-                // Mengirim waktu ke server
-                fetch("/predict", {
-                    method: "POST",
-                    headers: {
-                        "Content-Type": "application/json"
-                    },
-                    body: JSON.stringify({
-                        time: currentTime
-                    })
-                });
-            });
         </script>
 
         <script src="assets/tampilsensor.js"></script>

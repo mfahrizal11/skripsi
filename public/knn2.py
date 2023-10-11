@@ -1,7 +1,6 @@
 import json
 import numpy as np
 from datetime import datetime
-from sklearn.neighbors import NearestNeighbors
 
 # Membaca data dari file JSON
 with open('C:/skripsi/public/2minggu.json') as json_file:
@@ -24,23 +23,52 @@ for key, value in data['Data'].items():
 
 habit_data = np.array(habit_data)
 
-# Inisialisasi model KNN dengan nilai tetangga (n_neighbors) yang sesuai
-n_neighbors = 3
-knn_model = NearestNeighbors(n_neighbors=n_neighbors)
-knn_model.fit(habit_data)
+# Fungsi untuk menghitung jarak Euclidean hanya berdasarkan waktu
+def euclidean_distance(x1, x2):
+    return np.abs(x1 - x2)
 
 # Fungsi untuk memprediksi keadaan lampu berdasarkan waktu terdekat
-def predict_lights_by_time(time):
+def predict_lights_by_time(time, k):
     waktu = datetime.strptime(time, "%H:%M:%S")
     waktu_detik = waktu.hour * 3600 + waktu.minute * 60 + waktu.second
-    habits = [waktu_detik, 0, 0, 0, 0, 0, 0]  # Ganti nilai berdasarkan kebiasaan waktu tersebut
-    habits = np.array(habits).reshape(1, -1)
-    distances, indices = knn_model.kneighbors(habits)
-    neighbor_lights = np.mean(habit_data[indices[0]][:, 1:], axis=0)
-    return ['hidup' if light > n_neighbors / 2 else 'mati' for light in neighbor_lights]
+    habits = np.array([
+        waktu_detik,
+        *[1 if value == 'hidup' else 0 for value in data['Data']['-NUbhKQusYWmh4qcwaEW'].values()]
+    ])
+
+    # Menghitung jarak Euclidean hanya berdasarkan waktu dengan semua data dalam habit_data
+    distances = [euclidean_distance(habits[0], habit[0]) for habit in habit_data]
+
+    # Mengambil indeks k tetangga terdekat
+    k_indices = np.argsort(distances)[:k]
+
+    # Mengambil status lampu dari k tetangga terdekat
+    neighbor_lights = habit_data[k_indices][:, 1:]
+
+    n_neighbors = len(k_indices)
+    predicted_lights = []
+    for lamp in neighbor_lights.T:
+        lamp_state = 1 if np.sum(lamp) > n_neighbors / 2 else 0
+        predicted_lights.append(lamp_state)
+
+    return predicted_lights
 
 # Masukkan waktu baru di sini
-new_time = "06:30:00"  # Contoh waktu baru
+waktu_terbaru = datetime.now()
+formatted_time = waktu_terbaru.strftime("%H:%M:%S")
+new_time = formatted_time  # Contoh waktu baru
+k_neighbors =29
 
-predicted_lights = predict_lights_by_time(new_time)
-print("Hasil prediksi keadaan lampu: ", predicted_lights)
+predicted_lights = predict_lights_by_time(new_time, k_neighbors)
+
+# Menghitung tingkat akurasi
+actual_lights = [
+    1 if value == 'hidup' else 0 for value in data['Data']['-NUbhKQusYWmh4qcwaEW'].values()
+]
+
+correct_predictions = sum(1 for p, a in zip(predicted_lights, actual_lights) if p == a)
+accuracy = correct_predictions / len(predicted_lights) * 100
+
+print("Hasil prediksi keadaan lampu (0: mati, 1: hidup):")
+print(predicted_lights)
+print(f"Tingkat akurasi: {accuracy:.2f}%")
