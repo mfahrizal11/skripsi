@@ -42,7 +42,7 @@ window.login = function (e) {
 
     })
     .catch(function (err) {
-      alert("login error" + err);
+      alert("Email atau password salah ");
     });
 
   console.log(obj);

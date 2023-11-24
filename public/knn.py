@@ -1,17 +1,16 @@
-import json
-import numpy as np
 from datetime import datetime
+import numpy as np
+import json
 
-# Membaca data dari file JSON
-with open('C:/skripsi/public/2minggu.json') as json_file:
-    data = json.load(json_file)
+with open('C:/skripsi/public/skripsi.json') as json_file:
+    data_latih = json.load(json_file)['DataLatih']
 
-# Mengubah data waktu menjadi detik sejak tengah malam
-habit_data = []
-for key, value in data['Data'].items():
+# Konversi data latih ke format yang diperlukan
+habit_data_latih = []
+for key, value in data_latih.items():
     waktu = datetime.strptime(value['Waktu'], "%H:%M:%S")
     waktu_detik = waktu.hour * 3600 + waktu.minute * 60 + waktu.second
-    habit_data.append([
+    habit_data_latih.append([
         waktu_detik,
         1 if value['dapur'] == 'hidup' else 0,
         1 if value['kamar'] == 'hidup' else 0,
@@ -21,22 +20,25 @@ for key, value in data['Data'].items():
         1 if value['toilet'] == 'hidup' else 0
     ])
 
-habit_data = np.array(habit_data)
+habit_data_latih = np.array(habit_data_latih)
 
-# Nama-nama lampu
-lampu_names = ['dapur', 'kamar', 'kamar2', 'ruangtamu', 'teras', 'toilet']
+# Muat data uji
+with open('C:/skripsi/public/skripsi.json') as json_file:
+    data_uji = json.load(json_file)['DataUji']
 
-# Fungsi untuk menghitung jarak Euclidean hanya berdasarkan waktu
+predicted_data = {}
+k_neighbors = 3
+
+# Fungsi untuk memprediksi keadaan lampu berdasarkan waktu terdekat
 def euclidean_distance(x1, x2):
     return np.abs(x1 - x2)
 
-# Fungsi untuk memprediksi keadaan lampu berdasarkan waktu terdekat
-def predict_lights_by_time(time, k):
+def predict_lights_by_time(time, k, habit_data):
     waktu = datetime.strptime(time, "%H:%M:%S")
     waktu_detik = waktu.hour * 3600 + waktu.minute * 60 + waktu.second
     habits = np.array([
         waktu_detik,
-        *[1 if value == 'hidup' else 0 for value in data['Data']['-NUbhKQusYWmh4qcwaEW'].values()]
+        *[1 if value == 'hidup' else 0 for value in data_uji['-NiN2tSWJrvTG1IWSoCj'].values()]
     ])
 
     # Menghitung jarak Euclidean hanya berdasarkan waktu dengan semua data dalam habit_data
@@ -56,14 +58,56 @@ def predict_lights_by_time(time, k):
 
     return predicted_lights
 
-# Masukkan waktu baru di sini
-waktu_terbaru = datetime.now()
-formatted_time = waktu_terbaru.strftime("%H:%M:%S")
-new_time = formatted_time  # Contoh waktu baru
-k_neighbors = 3
+# Prediksi keadaan lampu untuk data uji
+for key, value in data_uji.items():
+    waktu = value['Waktu']
+    predicted_lights = predict_lights_by_time(waktu, k_neighbors, habit_data_latih)
+    predicted_data[key] = predicted_lights
 
-predicted_lights = predict_lights_by_time(new_time, k_neighbors)
-print("Hasil prediksi keadaan lampu (0: mati, 1: hidup):")
-for i, lamp_state in enumerate(predicted_lights):
-    lamp_name = lampu_names[i]
-    print(f"{lamp_name}: {lamp_state}")
+# waktu_terbaru = datetime.now()
+# formatted_time = waktu_terbaru.strftime("%H:%M:%S")
+
+waktubaru = "06:00:20"
+k_neighbors = 3
+predicted_lights = predict_lights_by_time(waktubaru, k_neighbors, habit_data_latih)
+status_strings = ["hidup" if status == 1 else "mati" for status in predicted_lights]
+print("Hasil prediksi keadaan lampu (0: mati, 1: hidup):")    
+print(status_strings)
+
+confusion_matrix = {
+  'true_positive': 0,
+  'false_positive': 0,
+  'true_negative': 0,
+  'false_negative': 0,
+}
+
+for key, value in data_uji.items():
+            actual_lights = [
+                1 if value['dapur'] == 'hidup' else 0,
+                1 if value['kamar'] == 'hidup' else 0,
+                1 if value['kamar2'] == 'hidup' else 0,
+                1 if value['ruangtamu'] == 'hidup' else 0,
+                1 if value['teras'] == 'hidup' else 0,
+                1 if value['toilet'] == 'hidup' else 0
+            ]
+            predicted_lights = predicted_data[key]
+
+            for i in range(len(actual_lights)):
+                if actual_lights[i] == 1 and predicted_lights[i] == 1:
+                    confusion_matrix['true_positive'] += 1
+                elif actual_lights[i] == 0 and predicted_lights[i] == 1:
+                    confusion_matrix['false_positive'] += 1
+                elif actual_lights[i] == 0 and predicted_lights[i] == 0:
+                    confusion_matrix['true_negative'] += 1
+                elif actual_lights[i] == 1 and predicted_lights[i] == 0:
+                    confusion_matrix['false_negative'] += 1
+
+accuracy = (confusion_matrix['true_positive'] + confusion_matrix['true_negative']) / (
+            confusion_matrix['true_positive'] + confusion_matrix['false_positive'] +
+            confusion_matrix['true_negative'] + confusion_matrix['false_negative'])
+
+print(accuracy)
+print(confusion_matrix['true_positive'])
+print(confusion_matrix['false_positive'])
+print(confusion_matrix['true_negative'])
+print(confusion_matrix['false_negative'])
