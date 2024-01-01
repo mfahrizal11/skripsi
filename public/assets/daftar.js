@@ -1,20 +1,21 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-app.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js";
 
-import { getAuth, createUserWithEmailAndPassword, } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-auth.js";
+import { getAuth, createUserWithEmailAndPassword, } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-auth.js";
+
+
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAThfImJZpVTK5Zm9SAIiZ-yeIGL2NAQjY",
-  authDomain: "skripsi-6a6f2.firebaseapp.com",
-  databaseURL: "https://skripsi-6a6f2-default-rtdb.firebaseio.com",
-  projectId: "skripsi-6a6f2",
-  storageBucket: "skripsi-6a6f2.appspot.com",
-  messagingSenderId: "257791345812",
-  appId: "1:257791345812:web:86e2954521a30521b9a081",
-  measurementId: "G-9M95CDD0J8"
+  apiKey: "AIzaSyDJInWciPDOdJLOj1JvUs3QzVKMQPsMTEo",
+  authDomain: "lampu-9ea22.firebaseapp.com",
+  databaseURL: "https://lampu-9ea22-default-rtdb.firebaseio.com",
+  projectId: "lampu-9ea22",
+  storageBucket: "lampu-9ea22.appspot.com",
+  messagingSenderId: "490245677046",
+  appId: "1:490245677046:web:15f7d71e093b99d5f7f1d7"
 };
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
