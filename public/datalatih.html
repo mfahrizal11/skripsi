@@ -126,7 +126,7 @@
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4 mt-4">
-                        <h1 class="h3 mb-0 text-gray-800">Otomatis</h1>
+                        <h1 class="h3 mb-0 text-gray-800">Manual</h1>
 
                     </div>
                     <div class="topbar-divider d-none d-sm-block"></div>
@@ -145,33 +145,42 @@
                     </li>
                 </nav>
                 <!-- Begin Page Content -->
+                <div class="container-fluid">
 
+                    <!-- Page Heading -->
 
                     <!-- Content Row -->
-                    <div class="row">
 
-                        <!-- Earnings (Monthly) Card Example -->
-                        <div class="col-xl-3 col-md-6 mb-4">
-                            <div class="card border-left-dark shadow h-100 py-2">
-                                <div class="card-body">
-                                    <div class="row no-gutters align-items-center">
-                                        <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                Pilih Kendali</div>
-                                            <div class="text-l font-weight-bold text-primary text-uppercase mb-3">
-                                                <button class="to7 btn btn-success" id="otomatis">otomatis</button>
-                                                <button class="to7 btn btn-danger" id="manual">manual</button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-bordered" id="tablaProductos" width="100%" cellspacing="0">
+                                <thead>
+                                    <tr>
+                                        <th>no</th>
+                                        <th>teras</th>
+                                        <th>tamu</th>
+                                        <th>kamar 1</th>
+                                        <th>kamar 2</th>
+                                        <th>dapur</th>
+                                        <th>toilet</th>
+                                        <th>tanggal</th>
+                                        <th>waktu</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+
+                                </tbody>
+                            </table>
                         </div>
-
                     </div>
                     <!-- /.container-fluid -->
 
                 </div>
                 <!-- End of Main Content -->
+
+
             </div>
             <!-- End of Content Wrapper -->
 
@@ -183,7 +192,23 @@
             <i class="fas fa-angle-up"></i>
         </a>
 
-
+        <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                    </div>
+                    <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                        <a class="btn btn-primary" href="login.html">Logout</a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Bootstrap core JavaScript-->
         <script src="assets/vendor/jquery/jquery.min.js"></script>
@@ -202,27 +227,19 @@
         <script src="assets/js/demo/chart-area-demo.js"></script>
         <script src="assets/js/demo/chart-pie-demo.js"></script>
 
-        <!-- firebase -->
-        <script src="https://www.gstatic.com/firebasejs/5.9.4/firebase.js"></script>
+
         <script src="https://www.gstatic.com/firebasejs/7.3.0/firebase-app.js"></script>
         <script src="https://www.gstatic.com/firebasejs/6.1.1/firebase-auth.js"></script>
         <script src="https://www.gstatic.com/firebasejs/6.1.1/firebase-database.js"></script>
-        <script>
-            var firebaseConfig = {
-                apiKey: "AIzaSyAThfImJZpVTK5Zm9SAIiZ-yeIGL2NAQjY",
-                authDomain: "skripsi-6a6f2.firebaseapp.com",
-                databaseURL: "https://skripsi-6a6f2-default-rtdb.firebaseio.com",
-                projectId: "skripsi-6a6f2",
-                storageBucket: "skripsi-6a6f2.appspot.com",
-                messagingSenderId: "257791345812",
-                appId: "1:257791345812:web:86e2954521a30521b9a081",
-                measurementId: "G-9M95CDD0J8"
-            };
-            // Initialize Firebase
-            firebase.initializeApp(firebaseConfig);
-        </script>
+        <!-- <script src="https://www.gstatic.com/firebasejs/7.3.0/firebase-analytics.js"></script> -->
+        <script type="text/javascript" src="assets/dataLatih.js"></script>
+        <!-- Page level plugins -->
+        <script src="assets/vendor/datatables/jquery.dataTables.min.js"></script>
+        <script src="assets/vendor/datatables/dataTables.bootstrap4.min.js"></script>
 
-        <script src="assets/tampilsensor.js"></script>
+        <!-- Page level custom scripts -->
+        <script src="assets/js/demo/datatables-demo.js"></script>
+
 </body>
 
 </html>

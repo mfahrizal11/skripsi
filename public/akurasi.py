@@ -1,33 +1,48 @@
-import json
-import numpy as np
+from flask import Flask, request, jsonify
 from datetime import datetime
-from sklearn.metrics import confusion_matrix
+import numpy as np
+import json
 
-# Membaca data dari file JSON
-with open('C:/skripsi/public/2minggu.json') as json_file:
-    data = json.load(json_file)
 
-# Mengubah data waktu menjadi detik sejak tengah malam
-habit_data = []
-for key, value in data['Data'].items():
+app = Flask(__name__)
+# Muat data latih
+with open('C:/skripsi/public/skripsi.json') as json_file:
+    data_latih = json.load(json_file)['DataLatih']
+
+# Konversi data latih ke format yang diperlukan
+habit_data_latih = []
+for key, value in data_latih.items():
     waktu = datetime.strptime(value['Waktu'], "%H:%M:%S")
     waktu_detik = waktu.hour * 3600 + waktu.minute * 60 + waktu.second
-    lamp_states = [1 if value[lamp] == 'hidup' else 0 for lamp in value.keys() if lamp != 'Tanggal' and lamp != 'Waktu']
-    habit_data.append([waktu_detik] + lamp_states)
+    habit_data_latih.append([
+        waktu_detik,
+        1 if value['dapur'] == 'hidup' else 0,
+        1 if value['kamar'] == 'hidup' else 0,
+        1 if value['kamar2'] == 'hidup' else 0,
+        1 if value['ruangtamu'] == 'hidup' else 0,
+        1 if value['teras'] == 'hidup' else 0,
+        1 if value['toilet'] == 'hidup' else 0
+    ])
 
-habit_data = np.array(habit_data)
+habit_data_latih = np.array(habit_data_latih)
 
-# Fungsi untuk menghitung jarak Euclidean hanya berdasarkan waktu
+# Muat data uji
+with open('C:/skripsi/public/skripsi.json') as json_file:
+    data_uji = json.load(json_file)['DataUji']
+
+predicted_data = {}
+k_neighbors = 3
+
+# Fungsi untuk memprediksi keadaan lampu berdasarkan waktu terdekat
 def euclidean_distance(x1, x2):
     return np.abs(x1 - x2)
 
-# Fungsi untuk memprediksi keadaan lampu berdasarkan waktu terdekat
-def predict_lights_by_time(time, k):
+def predict_lights_by_time(time, k, habit_data):
     waktu = datetime.strptime(time, "%H:%M:%S")
     waktu_detik = waktu.hour * 3600 + waktu.minute * 60 + waktu.second
     habits = np.array([
         waktu_detik,
-        *[1 if value == 'hidup' else 0 for value in data['Data']['-NUbhKQusYWmh4qcwaEW'].values()]
+        *[1 if value == 'hidup' else 0 for value in data_uji['-NiN2tSWJrvTG1IWSoCj'].values()]
     ])
 
     # Menghitung jarak Euclidean hanya berdasarkan waktu dengan semua data dalam habit_data
@@ -47,22 +62,70 @@ def predict_lights_by_time(time, k):
 
     return predicted_lights
 
-# Membaca data aktual status lampu dari file JSON
-actual_lights = np.array([
-    [1 if value == 'hidup' else 0 for value in entry.values() if value != 'hidup' and value != 'mati']
-    for entry in data['Data'].values()
-])
+# Prediksi keadaan lampu untuk data uji
+for key, value in data_uji.items():
+    waktu = value['Waktu']
+    predicted_lights = predict_lights_by_time(waktu, k_neighbors, habit_data_latih)
+    predicted_data[key] = predicted_lights
 
-# Masukkan waktu baru di sini
-new_time = "06:30:00"  # Contoh waktu baru
-k_neighbors = 3
+@app.route('/lamp_status', methods=['GET'])
+def get_lamp_status():
+    waktu_terbaru = datetime.now()
+    formatted_time = waktu_terbaru.strftime("%H:%M:%S")
+    k_neighbors = 3
+    predicted_lights = predict_lights_by_time(formatted_time, k_neighbors, habit_data_latih)
 
-predicted_lights = np.array(predict_lights_by_time(new_time, k_neighbors))
+    status_strings = ["hidup" if status == 1 else "mati" for status in predicted_lights]
 
-# Membangun confusion matrix
-conf_matrix = confusion_matrix(actual_lights.flatten(), predicted_lights)
-accuracy = np.trace(conf_matrix) / np.sum(conf_matrix)
-print(f"Tingkat akurasi: {accuracy:.2f}")
+    response = {
+        "lamp_status": status_strings
+    }
 
-print("Confusion Matrix:")
-print(conf_matrix)
+    return jsonify(response)
+
+
+@app.route('/accuracy', methods=['GET'])
+def calculate_accuracy():
+    try:
+        confusion_matrix = {
+            'true_positive': 0,
+            'false_positive': 0,
+            'true_negative': 0,
+            'false_negative': 0,
+        }
+
+        for key, value in data_uji.items():
+            actual_lights = [
+                1 if value['dapur'] == 'hidup' else 0,
+                1 if value['kamar'] == 'hidup' else 0,
+                1 if value['kamar2'] == 'hidup' else 0,
+                1 if value['ruangtamu'] == 'hidup' else 0,
+                1 if value['teras'] == 'hidup' else 0,
+                1 if value['toilet'] == 'hidup' else 0
+            ]
+            predicted_lights = predicted_data[key]
+
+            for i in range(len(actual_lights)):
+                if actual_lights[i] == 1 and predicted_lights[i] == 1:
+                    confusion_matrix['true_positive'] += 1
+                elif actual_lights[i] == 0 and predicted_lights[i] == 1:
+                    confusion_matrix['false_positive'] += 1
+                elif actual_lights[i] == 0 and predicted_lights[i] == 0:
+                    confusion_matrix['true_negative'] += 1
+                elif actual_lights[i] == 1 and predicted_lights[i] == 0:
+                    confusion_matrix['false_negative'] += 1
+
+        accuracy = (confusion_matrix['true_positive'] + confusion_matrix['true_negative']) / (
+                    confusion_matrix['true_positive'] + confusion_matrix['false_positive'] +
+                    confusion_matrix['true_negative'] + confusion_matrix['false_negative'])
+
+        response = {
+        "akurasi": accuracy * 100
+    }
+        return jsonify(response)
+    
+    except Exception as e:
+        return jsonify({"error": str(e)})
+
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0')

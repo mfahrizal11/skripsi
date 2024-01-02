@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accuracy Display</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+
+<body>
+
+    <div id="accuracy-container">
+        <h2>Accuracy:</h2>
+        <p id="accuracy-value"></p>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            // Make a GET request to the /accuracy endpoint
+            $.ajax({
+                url: 'http://172.16.78.45:5000/accuracy', // Update with your API endpoint
+                type: 'GET',
+                dataType: 'json',
+                success: function(data) {
+                    // Display the accuracy value on the web page
+                    $('#accuracy-value').text(data.akurasi.toFixed(2) + '%');
+                },
+                error: function(error) {
+                    console.log('Error:', error);
+                    $('#accuracy-value').text('Error retrieving accuracy');
+                }
+            });
+        });
+    </script>
+
+</body>
+
+</html>

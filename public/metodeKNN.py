@@ -23,6 +23,8 @@ for key, value in data['Data'].items():
 
 habit_data = np.array(habit_data)
 
+
+
 # Fungsi untuk menghitung jarak Euclidean hanya berdasarkan waktu
 def euclidean_distance(x1, x2):
     return np.abs(x1 - x2)
@@ -57,7 +59,7 @@ def predict_lights_by_time(time, k):
 waktu_terbaru = datetime.now()
 formatted_time = waktu_terbaru.strftime("%H:%M:%S")
 new_time = formatted_time  # Contoh waktu baru
-k_neighbors = 3
+k_neighbors =21
 
 predicted_lights = predict_lights_by_time(new_time, k_neighbors)
 print("Hasil prediksi keadaan lampu (0: mati, 1: hidup):")
@@ -79,6 +81,7 @@ confusion_matrix = {
     'true_negative': 0,
     'false_negative': 0,
 }
+print(confusion_matrix)
 
 for key, value in actual_data.items():
     actual_lights = [
@@ -91,6 +94,7 @@ for key, value in actual_data.items():
     ]
     predicted_lights = predicted_data[key]
 
+
     for i in range(len(actual_lights)):
         if actual_lights[i] == 1 and predicted_lights[i] == 1:
             confusion_matrix['true_positive'] += 1
@@ -101,5 +105,10 @@ for key, value in actual_data.items():
         elif actual_lights[i] == 1 and predicted_lights[i] == 0:
             confusion_matrix['false_negative'] += 1
 
+
+print(confusion_matrix['true_positive'])
+print(confusion_matrix['false_positive'])
+print(confusion_matrix['true_negative'])
+print(confusion_matrix['false_negative'])
 accuracy = (confusion_matrix['true_positive'] + confusion_matrix['true_negative']) / (confusion_matrix['true_positive'] + confusion_matrix['false_positive'] + confusion_matrix['true_negative'] + confusion_matrix['false_negative'])
 print("Tingkat Akurasi:", accuracy * 100, "%")

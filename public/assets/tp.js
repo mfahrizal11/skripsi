@@ -319,16 +319,16 @@ $(document).ready(function () {
     }
   });
 
-  $(".to6").click(function () {
-    var firebaseRef = firebase.database().ref('kontrol').child("toilet");
+  $(".to5").click(function () {
+    var firebaseRef = firebase.database().ref('kontrol').child("dapur");
     var currentDateTime = getCurrentDateTime();
 
-    if (toilet == "hidup") {
+    if (dapur == "hidup") {
       firebaseRef.set("mati");
-      toilet = "mati";
+      dapur = "mati";
     } else {
       firebaseRef.set("hidup");
-      toilet = "hidup";
+      dapur = "hidup";
     }
 
     var key = database.ref().child('Data').push().key;
@@ -363,7 +363,7 @@ $(document).ready(function () {
     kamar2 = snap.val().kamar2;
     dapur = snap.val().dapur;
     toilet = snap.val().toilet;
-    status = snap.val().status;
+
 
     if (status == "otomatis") {
       document.getElementById("manual").style.display = "none";
@@ -374,16 +374,4 @@ $(document).ready(function () {
     }
   });
 
-  $(".to7").click(function () {
-    var firebaseRef = firebase.database().ref('kontrol').child("status");
-
-
-    if (status == "otomatis") {
-      firebaseRef.set("manual");
-      status = "manual";
-    } else {
-      firebaseRef.set("otomatis");
-      status = "otomatis";
-    }
-  });
 });

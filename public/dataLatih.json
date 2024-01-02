@@ -1,0 +1,6204 @@
+{
+  "DataLatih": {
+    "-NUbhKQusYWmh4qcwaEW": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "00:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUbv1PnV3Bwv2GWJZnO": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "01:00:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUc7lARUjUN3fDt5NOg": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "02:00:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUcLWbGml9AYlFLphJs": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "03:00:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUcZGi08Zg9iA2cxOtF": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "04:00:17",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUcm0lzJz3ZN-eYSpcc": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "05:00:22",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUcm51wH5VDSDmdS5Ln": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "05:00:51",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUcm7mM4FTAya7pX51N": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "05:01:03",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUczjUJk-q2z9icEo4q": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "06:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUd-b4L46XqkBujlObJ": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "06:04:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUdCTH339FJsh3GiBel": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "07:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUdKtqiJ3zmCexEIJbk": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "07:31:22",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUdNosCkmaxPBoqDJVF": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "07:32:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUdQ1BKBXCBqfXJ0Sys": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "07:59:46",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUdQ6z8f1cZa-Z8zIqP": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "08:00:06",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUdcuSh6ikog6OnMwQA": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "09:00:11",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUdqdY6K1c44BtjUjpj": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "10:00:11",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUe3NxTIXkKPq-GUXXW": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "11:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUeH8MLazcjBYA1GMUS": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "12:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUeLCo9eQqWj3C6kLEa": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "12:15:15",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUeUpv2XVbY3mE9RIYM": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "13:00:10",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUeaocosSb98fbSazeR": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "13:30:43",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUehbOmWVQLyHwfmkoo": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "14:00:20",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUevIHBIuYYsPUJ6zVS": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "15:00:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUf823ECTsCjHZ6L35R": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "16:00:11",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUfG1Rtkgr33lHQsQkc": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "16:35:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUfH9YvP7OaznGRPwxe": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "16:36:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUfLkiMIP4DRDON1LzD": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "17:00:06",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUfMbE2BxxrPhb-qJEH": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "17:03:54",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUfMdgbHLOB_SDnBaxi": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "17:04:14",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUfWQ_UcFOQLgOQiLHr": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "17:46:53",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUfWbAz94k9K7tCjWLB": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "17:47:41",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUfZWM-oWPc6aHmBYtV": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "18:00:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUfmDbafHjIxidq0f9n": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "19:00:06",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUg--Bz-qklV2pMh10o": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "20:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgCjhba0zMcckvsgvC": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "21:00:20",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgQRgaTJggfLNo4hpp": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "22:00:12",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgSRetrc4BirJ3AFRU": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "22:04:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgSUOg5KgQzDQF_8Z7": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "22:05:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgSWwnlshNdervoJo3": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "22:07:32",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgdC4DIbWuN2W8OyQK": {
+      "Tanggal": "5-5-2023",
+      "Waktu": "23:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUgqtX_09lfuxANje3J": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "00:00:08",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUh3eaMbQOKPgPUeUH0": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "01:00:17",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUhHNNUR-ZTsi9n-6P2": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "02:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUhV4htOCU-H5lpotGp": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "03:00:06",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUhhsWg7smZIiAFMEmH": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "04:00:22",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUhvZVcuQFCls2FxLX0": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "05:00:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUhxMDsO0ogDv6qSq4A": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "05:02:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUhxOTIm2pZ762zRF8A": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "05:03:24",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUi8Kxz5UVLuC59Krac": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "06:00:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUi9zXEvRXNmYODm3L7": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "06:01:43",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUiM0gvQKJJfGM86fvP": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "07:00:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUiTOborDBKnQ4qfZi6": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "07:32:34",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUiUFn7DdWd_bTHEepl": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "07:36:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUiZn-h8-r3-1Qnjc1D": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "08:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUi_F_ONh8ktLCjfZQn": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "08:02:33",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUi_sf-DfSkRIHTC7el": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "08:05:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUimW1tU2HUx5S70yct": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "09:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUj-EnWlicOwKN5lG5q": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "10:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUjCx3-zub_JNhUNy1u": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "11:00:06",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUjQgEf-ZVy9Y45weMH": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "12:00:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUjU8mUkfiHCDm96H5-": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "12:15:30",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUjdSuKmfyicv7P7XdV": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "13:00:19",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUjkFoIZcDHHvtO1erD": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "13:30:17",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUjrAIszJI91woKT3KQ": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "14:00:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUk3sODq4RwVe4El7AA": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "15:00:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUkHdYSJQwAl32J2Cyz": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "16:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUkOzXYsr3xmo6QsXA9": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "16:31:59",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUkPGi_i1mm1FnKxAD2": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "16:33:45",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUkVODKp2DrLUaSioPd": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "17:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUkZhMvKlwWOzseO4ld": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "17:02:21",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUkZkDYzBw4M9H9sPkQ": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "17:02:34",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUkdp68XprQpzz22lZg": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "17:41:46",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUkeMQinbucnQZu3rmp": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "17:44:05",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUki6jv0VLsb2aSm9qq": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "18:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUkvrFUq17mR74YEX_z": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "19:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUl8ZO2DYOA9KuPSHOX": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "20:00:11",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUlMJk7L1veFQf7cseU": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "21:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUl_-z4hcV0idZTUnlU": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "22:00:06",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUlap8PSxO14aucd8E-": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "22:08:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUlatxWMDlSaUySqWLC": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "22:09:26",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUlawL4h_5G0Ilc8hL_": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "22:10:46",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUlmn545vV-CYqslyM1": {
+      "Tanggal": "6-5-2023",
+      "Waktu": "23:00:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUm-W8p6Lhgogzq3xSS": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "00:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUmDDZ00_0QiqdXq-AG": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "01:00:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUmQy6nJJkWBtUmSKbB": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "02:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUmdhVJKZfxz09nR4Ws": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "03:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUmrSCgmK1RFW5XpEda": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "04:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUn4A0PmECFAXCmsMdC": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "05:00:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUn4jeoSGMw2j179XxQ": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "05:02:53",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUn4ooAiqbBFfYq73nu": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "05:03:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUnHt2_qU4wOvjhl-Ob": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "06:00:10",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUnJ39dkWtCSY9vjRVR": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "06:05:31",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUnVaML9WcZrA6OCTeA": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "07:00:03",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUnbfWFMNSN2jjZmcmD": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "07:31:14",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUnc4HzoYKXVjw7KLLM": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "07:33:01",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUncXj_ANXrwH1ABVE6": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "07:34:59",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUnf_tp2vZ_Kffi1y7D": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "07:48:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUniMWVPgQvpwROnkm-": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "08:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUnzDdEsHEnodyDhS60": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "09:13:51",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUo8ztjo6zveBHK0Zyj": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "10:00:56",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUoMgPE4TMq84_BPfSk": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "11:00:45",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUo_Td7VCWbs4tuTui9": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "12:00:58",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUodaZpC-5KoaoiO2eh": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "12:19:16",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUon7qEWpb4z7RoONoM": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "13:00:40",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUouXwiBEisdX9QF2--": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "13:33:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUp-q8poBsis9sPOdDJ": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "14:00:33",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpDceTe1U8bbIurVPi": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "15:00:48",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpRJxpKA_ATyRPC1WH": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "16:00:38",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpYfAdRcQGxY27Q99I": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "16:32:54",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpYlJx_uitVYpyTIlO": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "16:33:24",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpe4ztjCi3pFWG4W4_": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "17:00:46",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpfu_qgXfI1g1R9mVs": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "17:03:59",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUpfzh7665_dNkhaJPe": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "17:04:20",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUpnITrG1LPYwpf5mGZ": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "17:41:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUpnKqQqfAQAR8XZ8p5": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "17:42:25",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUprnKB1tOR5aAJ_lVr": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "18:00:40",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUq4WwAfm80Q68ccprv": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "19:00:39",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqIEF0uvkqDngW2THb": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "20:00:32",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqW-nnRK4h_iZk1bqO": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "21:00:42",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqikL0LvacOBp21yVm": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "22:00:45",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqnO2AfDl2L4qBCvzD": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "22:21:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqnXL84-3muyJ2XX1Q": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "22:21:50",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqnrEe8XpDSmXvOpet": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "22:23:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUqwRlqncmYQDUPEefp": {
+      "Tanggal": "7-5-2023",
+      "Waktu": "23:00:35",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUr9B5LqKk48ne2rhy7": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "00:00:37",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUrMpvhlyAwHpWmLYbK": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "01:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUr_YW3g1saeuca8HsJ": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "02:00:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUrnJBslBe8PfHJ4h_H": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "03:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUs0-CR4UfdnfUZm2rP": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "04:00:06",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUsDjHlWwCBMHkW2wmp": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "05:00:06",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUsEIAYpma1GFU-_eoA": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "05:02:44",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUsEX9jKLJPBc5Fe3fk": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "05:03:49",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUsRTfOJ3uQ1pndKfOB": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "06:00:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUseG4_pKRjTwVuXQjf": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "06:03:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUskiE2EPD9N486gr3m": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "07:00:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUslIQYhnf5dpq1mfdZ": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "07:31:16",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUslgPHCwDvzDBXfx8y": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "07:32:51",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUsry0MssYEBvMSKY-z": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "08:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUss_LRLcDDSUnuf7G7": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "08:03:06",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUsscej1M2LqiVJbQSM": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "08:03:24",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUt4gf_cZuzvvfjlKWB": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "09:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUtIPhhTWQOlTZ_cqmD": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "10:00:11",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUtWAwg05rQ92mYghKr": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "11:00:20",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUtivHI-b4xRsrLlBCj": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "12:00:22",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUtoaz6dgAVBRd0G85X": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "12:16:25",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUtwaW72wQ3JMluBJGC": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "13:00:07",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUu1gSwuGh3mkQpunwh": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "13:26:57",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUu9MvH7HJEgyWk3sv8": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "14:00:17",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUuN4kjF_bkw82kOu4x": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "15:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUu_qy6EzMzuAo2Ns74": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "16:00:22",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUugg3uEEW22lrP29D2": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "16:30:23",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUugm-gxjnsm-QdZBzN": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "16:31:39",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUunYkNj5k4nGVtgyBF": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "17:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUurTFm4QZeSC2vJHFO": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "17:01:31",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUurmon1Z4x-9OQLx1r": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "17:02:54",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUuxvg5-WVwzOHM7yYf": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "17:40:47",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUuxyHPu4DshV5EnWhf": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "17:41:58",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUv0J7xvMBGRq-gsHK2": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "18:00:20",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUvE3gk69Rr48dPY4U4": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "19:00:26",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUvRmV-dJK2CmfPu9sa": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "20:00:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUveWpSfTfwVca2E9Es": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "21:00:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUvsD0fXM53GEe6LElZ": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "22:00:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUvsiu1Pfy3Sk9LcqT8": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "22:02:12",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUvsmKbDmLVn4QuCGiE": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "22:02:49",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUvsoB9xPHxENm83KQH": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "22:03:05",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUw4y2qPr_W9qobtCtb": {
+      "Tanggal": "8-5-2023",
+      "Waktu": "23:00:17",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUwWTHzuSZUO3Lx56Ww": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "01:00:27",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUwj8_7GLLQLGeEMIvk": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "02:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUwwu4e9ZGPteeOvpCJ": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "03:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUx9atQetfpAmbpo-sa": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "04:00:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUxNLNIeIwX46-JdUTh": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "05:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUxPSBhQ4VLf5A2yuCp": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "05:02:25",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUxPaNqnJ4YOCRRFAlC": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "05:03:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUxa47rg4MmEZ16JkYn": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "06:00:12",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NUxbW5JuaIKUolYykRV": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "06:01:39",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUxnqY1kjIQoU2eGyNG": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "07:00:22",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUxuhh-3fGIcDBWDWe7": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "07:30:38",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUxukFUGQ5IK-J99Ly_": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "07:31:44",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUy0WToq85Fjxx-_QGB": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "08:00:06",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUy1BvhjaKeL2Ftwhb1": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "08:01:20",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NUy1Df7AMXJltqpRu1A": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "08:02:27",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUyEHcyuk6fNhMxpcl9": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "09:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUyS1vCNmBTDwr5Z9TB": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "10:00:21",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUyekHBK6xJuMyz8xtA": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "11:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUysUNFgBv-kg_BfI4j": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "12:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUyvS1glpB4eEbFfV2X": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "12:13:27",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUz5Edijb2th4GAI5Fw": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "13:00:21",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUz8dhUty-N8TygMqBB": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "13:30:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzIzhX0MmTyWK2zkIr": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "14:00:25",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzWfa9bvjP31_rB4aY": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "15:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzjRnY-kN8do9nzZ-6": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "16:00:22",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzx6SkH14mlQsx7I8n": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "16:30:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzxGSgAaNF9jK2JU_p": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "16:31:58",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzxaPAYK-hmRKRsAEJ": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "17:00:27",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NUzyLYR4TgnlS0y35Ri": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "17:01:39",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV-6YEzIMsXebMsF63E": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "17:40:55",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV-6ZqasvNzEPjMzcMx": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "17:41:01",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV-9ubzHOOINXzBJCI_": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "18:00:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV-N_FqAZik7ZZH3XGV": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "19:00:05",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV-aM9pcdY8-quEXmsp": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "20:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV-o7_4EAJSivEl_6uG": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "21:00:27",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV00qXSIiFZNimTMbqf": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "22:00:24",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV02O_ARA3saita3APw": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "22:01:22",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV03IhD05ekDeh7UJ9W": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "22:02:29",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV03NPH8wA-k1ElSShr": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "22:03:29",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV0EYZ_zUiher6NePIS": {
+      "Tanggal": "9-5-2023",
+      "Waktu": "23:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV0SHTmgEZ86xbnran8": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "00:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV0f-Kl8hkXWSWoL1nY": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "01:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV0siEy5jFbiU0ZRNuF": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "02:00:08",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV15UH4-Dw6TBT0_B-r": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "03:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV1JBZBTijiL3TR155I": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "04:00:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV1WxlckpHKM5SnFn3a": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "05:00:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV1bzC_FAteyo-aXX-s": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "05:02:52",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV1c2OCWJeq_G7yLpDu": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "05:03:10",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV1jeX7yIyeA4B6yuQY": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "06:00:10",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV1l-d7oG8EWCjDPWt6": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "06:01:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV1xQueVf_dSN0n0ovU": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "07:00:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV258YgVIK4nB0xu5EY": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "07:31:38",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV25KJg62WY3z1RAFk3": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "07:32:25",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV2A7AEq0poSkNBm8Gk": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "08:00:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV2B9WREOGsehQH5Mzh": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "08:04:55",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV2BBspmKETKI_BaSea": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "08:05:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV2NrhOf4cWT0iXiAAY": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "09:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV2a_raokHQgRNirzeT": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "10:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV2oMDaShnkK3OROHZ6": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "11:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV313QvlJqXncZZCyZB": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "12:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV34X88XFVUMQVfhOxf": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "12:15:35",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV3EnRKFbRs1f8Etb1a": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "13:00:13",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV3O7ox9DM9symDiL1y": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "13:30:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV3SWjvetLKDquINLxo": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "14:00:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV3fFOoMW3Fivc-OWp-": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "15:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV3syvmlTtwVetu5RdP": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "16:00:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV409N4WCY7K7UxUYLV": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "16:35:55",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV40UiTH9cGSxRT17v5": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "16:37:34",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV45gxodEbEFoo3uHuE": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "17:00:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV45wAc1599gDY3elx5": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "17:01:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV469FQPNY6Y-qIGFKZ": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "17:02:18",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV4EpzbWDwNw4GndpBl": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "17:40:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV4FAOeaOXWKQeq9Zqd": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "17:41:41",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV4JQwkY3qzWMSOA701": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "18:00:04",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV4XDIfjtWl38lZFZj8": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "19:00:19",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV4jv6XaOHyKyf0PJNQ": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "20:00:10",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV4xfGd-EBkNNa7f2Cb": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "21:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5AMPRBoO7FzkZjM9d": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "22:00:04",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5DLKtYmPhseocOfxf": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "22:02:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5DhiLY0cn0ezTURut": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "22:03:54",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5Dkey31UpDXuDC2XO": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "22:04:54",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5O9GEGx6liSPVrzWn": {
+      "Tanggal": "10-5-2023",
+      "Waktu": "23:00:20",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5aslvxFDg9X8fd8MD": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "00:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV5oZ1SlOOxgIGLJEUX": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "01:00:04",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV61KOPRyp8Nj0gJ7g3": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "02:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6F3LkGZeBa3UooS6g": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "03:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6So7z483kvM_9aBlh": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "04:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6fWQAUoE-C62sHRt1": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "05:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6h9wXT2E1g3de_MGM": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "05:02:23",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6n3kmKhG3G1Mom11d": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "05:03:25",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6tGm7bnlCqEpd64qP": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "06:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV6tSqEDZ-Ed7tMEpmN": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "06:01:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV75yO5cPIbEcFhccXf": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "07:00:08",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV7DtPCa1baENJQr53l": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "07:32:52",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV7DwB4BPf2IHNzkkzn": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "07:33:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV7JgGiogyTi-Z9rozf": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "08:00:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV7Jsxy-ySXlnaFhFWe": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "08:01:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV7JuXAgiCA_QqoXAm7": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "08:02:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV7XSxSQ6Fe62vT-wN2": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "09:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV7k9gV68--sSQKpzwT": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "10:00:07",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV7xvFCPw7xQBfA2Ur6": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "11:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV8AdFijzUHKeitFhpR": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "12:00:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV8CeHwA0B_Ph6Bzw6X": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "12:16:52",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV8ON3Fo1rZP1AeqArS": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "13:00:10",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV8Qdg3RGRSwtPHeYZQ": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "13:30:41",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV8b4n2tG_Qqhrby-BL": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "14:00:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV8ooRzISbhTpjNpztJ": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "15:00:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV91ahP3GTIZd2aGkr1": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "16:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV9FK38RxFMuJ-x9DZ6": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "16:30:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV9PE394B3v2HX1x5dg": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "16:31:45",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NV9PEAlt0_NH2HW9KMx": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "17:02:45",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV9PEIO41HsJM3Huk15": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "17:03:45",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV9PEQH6_ULvn7cVf04": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "17:44:45",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NV9PEZGhAC5mMIMgcrW": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "17:43:45",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV9T4dHjXkxeOUY8_uf": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "18:00:22",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV9foqMUkESzWpaY-vD": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "19:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV9tWmBQwrNlzzIgBcH": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "20:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVA6FO8q8B1gIGDitrA": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "21:00:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVAK-QOxKzT5gWXgULR": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "22:00:19",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVALbEBZcmvaYwndsIL": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "22:02:33",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVALceOnsaFIcfnKmJQ": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "22:03:39",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVALfLfQGXfeff-VIEB": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "22:05:49",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVAXjrB_1ZlBIW23AlS": {
+      "Tanggal": "11-5-2023",
+      "Waktu": "23:00:20",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVAkSY1nJ4Nzm9Dy5hO": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "00:00:17",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVAy8qnr8QphZ122jFF": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "01:00:06",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVBAspmJaQuvG4YS4Nl": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "02:00:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVBOeBkUyMa1J0FM5qi": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "03:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVBbM4KsA-IjSxbGOMp": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "04:00:09",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVBp7yIixcSu9tzOIac": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "05:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVBpC4nRfS8jBshx2x2": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "05:00:49",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVBpEhWA1zN8LBq0M9n": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "05:01:00",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVC1oV5JYTvBW6znB89": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "06:00:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVC207gTSf6YCwwllAx": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "06:01:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVCFa1JEFFgEHsavOpD": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "07:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVCMjhBzs4_CJNdR2Er": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "07:31:45",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVCMm2Ec2z0WKTqjccx": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "07:31:54",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVCTIeqftJXsnONGiQf": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "08:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVCWtHk2Fm80cLdZ10o": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "08:16:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVCWw8tAgPLMdO6RP0R": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "08:16:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVCg3AS3Znz5doi1LJm": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "09:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVCtmMC5Sij-C_O9bPr": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "10:00:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVD6W6kojjRr2MmszMH": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "11:00:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVDKEBuO5HVq3C4F9wj": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "12:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVDQ4kKDVo2hX4C0Arm": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "12:25:58",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVDXxhGm-nrk2WTlUwe": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "13:00:11",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVDdhNqHBHlmHztXXQO": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "13:29:50",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVDkieTpyJ3YQMqv042": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "14:00:20",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVDySHpdO-7ws_nhM_p": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "15:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVEB7fL_PcrUcvONLjS": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "16:00:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVEK1iEeR4tc4Ft_j3y": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "16:39:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVEK4-Pd5y3-NSzrOSw": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "16:39:21",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVEOusd_dT430XXoZpY": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "17:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVEP9OAGDWsaKdFg_bC": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "17:01:33",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVEPC9TDW6HvfbZfu9l": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "17:01:40",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVE_jRTkueMs0oYTjo7": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "17:05:57",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVE_mrCGL8DvxDnmd1h": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "17:52:22",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVEbdOPqBDZy1VHJlnD": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "18:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVEpKWoSXNk_CSlCg-s": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "19:00:04",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVF25Qy33M7dPR0uMvD": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "20:00:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFFoevNPoZwGmZPMc5": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "21:00:10",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFTZQao7q2IgzRl1oG": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "22:00:14",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFWJK0EGyV9WR0Unae": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "22:11:56",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFWPRz49bxcsvo-Owh": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "22:12:39",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFWRj-IpwCaT0poP15": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "22:13:01",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFgGFxWG2cAavBWkr-": {
+      "Tanggal": "12-5-2023",
+      "Waktu": "23:00:06",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVFu18X2Q2Qamz9OGHo": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "00:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVG6kxHxdVLHihrefjT": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "01:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVGKTwKQtc-fQ_rDs8E": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "02:00:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVGYF2FLueivMk3klcj": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "03:00:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVGkxpQhiXB5jlTIsYY": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "04:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVGygMaBg4vFkodgcgn": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "05:00:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVHBOBtAxPMVAoc5s7L": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "05:01:05",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVHEFOKQOdDGwQIc4mX": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "05:02:27",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVHENy9Zzmecsg8DPJT": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "06:00:20",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVHETvN8KWEoEgBYogw": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "06:01:41",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVHP9xVrTs_XvjTY5Bl": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "07:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVHZZWVgvrenbkj9AEz": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "07:35:44",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVHZbUrUXQw22W-Q5Re": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "07:36:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVHbrreugcg1bl75CRs": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "08:00:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVHdtO3jOGMvIDaNTLz": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "08:02:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVHdxoPDKfQ9CDe47hC": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "08:03:26",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVHpdLggqrYMxXkxdyO": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "09:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVI_3cbU9CCBiwrgQBp": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "10:00:26",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVI_SljK-DKgwLzfKFu": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "11:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIaBAp8jAqMRqslCg5": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "12:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIfNCcrgA5oVE9zXP-": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "12:15:00",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIigNsxaxFjgh1-VYV": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "13:00:29",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIjAVtf2MovVndTpPY": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "13:30:35",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIudS1pv_XF6jOx5NP": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "14:00:41",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIv74E1pQupiMsMfbT": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "15:00:47",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVIvR5XTS2RzaGh054j": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "16:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVJKyiA_2lsdnsUFKqj": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "16:30:07",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVJSW6UZ5k4pCZJ4zuR": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "16:31:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVJSY_btFEtxHWEQsVZ": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "16:34:27",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVJYcTuGG0cA1tORFun": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "17:00:46",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVJ_BVvbdw2wKjrigxD": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "17:02:44",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVJ_E0jpwy6Mp0BGMWD": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "17:03:01",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVJgf59p7IaSGV4tKe4": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "17:40:31",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVJghTJ0fejai6ErTFZ": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "17:40:41",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVJlNJAhQJ_AmL-H4MI": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "18:00:50",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVJz5DMUzub2NLeKwHG": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "19:00:46",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8FSjS7EB": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "20:00:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8FSjSasd": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "21:00:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8FSjasdr": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "22:01:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8FSjetda": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "22:02:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8Fawdaas": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "22:02:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8Fawdasd": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "22:01:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8Fawddg": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "22:03:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKBuQlsJjy8frdysd": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "22:03:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVKqFh_mmA615LSRb_b": {
+      "Tanggal": "13-5-2023",
+      "Waktu": "23:01:47",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVL2rONg24ThechQXKK": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "00:00:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVLGdLjQbKlm-W2xs36": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "01:00:26",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVLULjK2e7roNtzBzyr": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "02:00:17",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVLh6LJJCBfj9qIRO3k": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "03:00:26",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVM4zZ0DvhfsS380zv7": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "04:00:21",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVM517DV6uhKrWehOWg": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "05:00:32",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVM5V178HhwpGcgjJW_": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "05:02:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVMlHHEitmAf88Ml80t": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "05:03:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVMoidUi10EyFk6WRwX": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "06:00:29",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVMokxGmoY7titonk3y": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "07:00:42",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVMont3VT3Rub5ZbbeC": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "07:30:55",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVMopiwFNU58Z5TRt0c": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "07:31:02",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVMorREZlPPGORwQJwr": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "08:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVMyzKxP2aM_AjO3uiF": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "08:02:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVNBf8k8G3VdsRxfK_x": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "08:03:57",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNCSjp9W5hFuWXTmdt": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "09:00:39",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNCVhd5e57qk5uFrj-": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "10:00:46",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNPjfzF1iAtu8HhH2K": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "11:00:24",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNcOGLKYjza0AWzFe3": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "12:00:03",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNq9kLGaxUisxYPDWt": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "13:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNroxlEjN94s7D1gXu": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "13:07:44",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVNyiq4P553wwKJ950b": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "13:37:54",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVO2uMFhsaCXGXKCLb2": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "14:00:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOGdD05sygbh-6Ma8q": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "15:00:17",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOULFEVVzQ2K5bwjG5": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "16:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOawgw2SRk0WLjtySX": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "16:33:29",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOazt7IKJgIE9RGqaL": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "16:33:46",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOh5ehuAmDkRIWB5Cy": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "17:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOhmq3XOQRj3bZIGtY": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "17:03:30",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVOhpQKmMcmwD8LQY8z": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "17:03:40",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVOrK0MEg3Uv4_vkTNq": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "17:45:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVOrMPzjJVCWfq_t-sI": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "17:45:20",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVOunobWFp7DIcdpeM5": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "18:00:08",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVP7ZDsxt40UAfjZUA1": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "19:00:14",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPLJjSuptYRrTOEpGa": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "20:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPZ071jlaCjYuTT-Q6": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "21:00:11",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPlnAqsGH0inp75aiN": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "22:00:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPlqsWW5dXMNQAakr4": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "22:00:54",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPluNl-8ftw7X_4Qkh": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "22:01:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPlx7wq44hvISrKFzc": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "22:01:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVPzUumMxZ-4Gy0VrwF": {
+      "Tanggal": "14-5-2023",
+      "Waktu": "23:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVQCBJu31lEgT1shf41": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "00:00:04",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVQPv_VjUrrqSfPdld9": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "01:00:06",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVQcgXpKzBDmr1xXFr4": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "02:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVQqR-DIKRY5RsC1MmX": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "03:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVR37hXPIPxTHKUL7YB": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "04:00:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVRGrih1anKEA0RX2ml": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "05:00:08",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVRTkeXruuCYn7S4OtA": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "05:02:41",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVRTm9vsYsUe9S8xBQ6": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "05:03:48",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVRU_nRtkQqG9ftc3Bj": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "06:00:04",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVRZtYAqPS_aoj-6sMS": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "06:01:54",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVRhJuMLSjrpnxvZ2xK": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "07:00:05",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVRp1CPU2aY-t7VKzq0": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "07:34:00",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVRp3wVideiHMDf4rXA": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "07:34:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVRv2gXiUZTHabP166b": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "08:00:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVRw-tPWEbu2cUe3lG2": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "08:04:29",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVRw2rU1D7BnRjkCngI": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "08:04:40",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVS7pK3fAvv9mHa3JSD": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "09:00:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVSLYJ3o9lA_R-p0Qu2": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "10:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVSZHbMQ8APJOb40Q6u": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "11:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVSm07UTtP61VMBL7hJ": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "12:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVSsUckQb0Y6n_TuCgG": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "12:16:43",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVSzhkr9TJnEokpW7th": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "13:00:03",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTAXUmHO_9EJfAPDr9": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "13:31:57",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTCRwR9b3qumlwDyml": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "14:00:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTQAwm0W5DcsngaLKU": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "15:00:04",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTcxIbZveomZEJsARv": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "16:00:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTmYJaFcXYCydwHd60": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "16:31:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTmcuDv5AGwloxSHit": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "16:32:47",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTqcsh0a6SHc3SMkPC": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "17:00:01",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTrN9DE9kHURRtuNRJ": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "17:03:29",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVTrP_Ny5TqnKZkV-BQ": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "17:03:39",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVU3PETYB1QVG9xZKpq": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "17:40:11",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVU9QHyHjCasQPLdtu2": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "17:42:43",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVU9QdzdQIMRqUWDzD2": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "18:00:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUH8omr6ZzYpCZxul5": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "19:00:08",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUVWzIEwj1XzI9AEJN": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "20:00:15",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUVXIPloILd2OM2omb": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "21:00:15",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUvSecIZulqaJlacvR": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "22:00:42",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUvg2OOPLYjY8d7d9R": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "22:01:39",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUvhZb-qlgeDvC9kmD": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "22:02:03",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVUvj7oAKFUNusjeyPQ": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "22:03:03",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVV86Z-7SW3o0ksCfmy": {
+      "Tanggal": "15-5-2023",
+      "Waktu": "23:00:20",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVVLq59uQE3EnyMD5Eq": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "00:00:21",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVVZZin6QjBPQ0cvqN4": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "01:00:20",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVVmHphtn1Wnvq6moIK": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "02:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVW-0ZrvUiiaJ7yyGEe": {
+      "Tanggal": "",
+      "Waktu": "03:00:16",
+      "dapur": "",
+      "kamar": "",
+      "kamar2": "",
+      "ruangtamu": "",
+      "teras": "",
+      "toilet": ""
+    },
+    "-NVWCm2ey9N-aTfqtg0G": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "04:00:22",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVWQUbOCsBjY6KZhAG8": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "05:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVWdCZjLo3kmCikkbn4": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "05:01:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVWj8xU03CqyqugIZ6s": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "05:02:26",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVWjAdjV-CsWGa6FCrT": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "06:00:12",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVWjCGKZbrxRT8Vm4KX": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "06:01:39",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVWjCSIv1CLSyknS-Vj": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "07:00:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVWqwnn9a2Lnr8_MbV8": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "07:31:14",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVX3gmb0TjHTBJetLtm": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "07:32:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVX8auLpTZ2rfJHxu-l": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "08:00:56",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVX8d6HUOP61Y0ZodkJ": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "08:01:07",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVXHQqUp4PGtxG8RZ9M": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "09:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVXVAE5PBasls5eYX7N": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "10:00:20",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVXhtOAqFeyLYbL1myW": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "11:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVXvdwm9NIMV2L5e7lL": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "12:00:24",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVY3wBjjAjSH5yF3tkG": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "12:15:00",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVY8MX9Iyxn99Hn_cPn": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "13:00:19",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYLjQf2xEpoFrThczf": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "13:58:59",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYLlNy5YYkiiaIvY2E": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "13:59:07",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYM5R85_PDAfcoAZjh": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "14:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYZqv0-qTVmbdIzeOJ": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "15:00:25",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYmYVBIbExoa3Mw8mE": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "16:00:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYvdX4rNiCaXUrOB-m": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "16:40:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVYvfDjnznWD3K4hcD5": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "16:40:22",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVZ-FvlSdns_OuZNUhm": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "17:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVZ07xc9scm9RvGmZCi": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "17:03:35",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVZ0A2TOm0TNOQFvCYa": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "17:04:21",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVZ99UDCEDrhWJEXdwY": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "17:42:40",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVZ9Bj3wFc04-x8O3S4": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "17:43:47",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVZD0B79XTAH_4o0mYY": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "18:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVZQkv4NtH9TIIjPyvY": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "19:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVZdUm8Pzdet8iZ2wOS": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "20:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVZrB06dzlBQFqNVhRW": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "21:00:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV_3wlfO-FxpuB1xoBN": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "22:00:14",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV_HfBHcNZDA52-Xipq": {
+      "Tanggal": "16-5-2023",
+      "Waktu": "23:00:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV_VTgTaZ2C9fRmhG6I": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "00:00:31",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV_i9nU87EEb_WS555G": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "01:00:21",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NV_vtFpU2QH4fRLrHHg": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "02:00:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVa8aZaqwPU24JxAewT": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "03:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVaMKKETiKqG4ONE0ME": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "04:00:11",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVa_3zPQ7qXfU2FGnQ-": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "05:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVamnLQWwupmPOEfM_g": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "05:01:10",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVb-VYijvydfdeundtb": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "05:03:05",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVb3t70a5D9vZdxYA8y": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "06:00:13",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVb3tQ5pMof4Cw4ZZY3": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "07:00:00",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVb3vTCxKEA3wjwNbck": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "07:30:12",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVb8oXJGWjscGhCgKco": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "07:31:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVb8rQdDkfYbh8tgIca": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "08:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVbDEhyIbiqKcFFKcwI": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "08:00:07",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVbDfv8zC_lG38RaPQq": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "08:01:23",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVbDhVDd-Ewh_4n5l_W": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "08:03:30",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVbR1TWmAOEMaFNpc4c": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "09:00:23",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVbdio0yxVJZPcIbPQM": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "10:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVbrU2-7H-pKF_jSuB6": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "11:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVc4BLUbzQWLbaqxcbe": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "12:00:09",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVc7Zlb8ScO_bVblgZy": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "12:16:00",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVcHunrenEqmTHJwxYZ": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "13:00:10",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVcP26XHYK4lbLqxOGW": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "13:31:34",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVcVgSWPxUv3fvmkqP1": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "14:00:21",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVciPukmFBrHOXdIxbd": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "15:00:17",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVcw7RudyYGgcpD5DCk": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "16:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVd2N8PbE1jZvpObW-q": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "16:31:54",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVd2OwESGWFspWDqOC6": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "16:32:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVd8sK4tqzhXxLTx2AS": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "17:00:17",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVdCPc-302I_KPM3-kb": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "17:15:52",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVdCRVFj-mi5xd0MgQn": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "17:16:06",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVdJAj6FYg8qQSQDdYT": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "17:45:34",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVdJCIs6BeLLdcdx5wm": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "17:45:40",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVdMakfRekttpnJaNK0": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "18:00:16",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVd_J1jD9Ld-yCoz8XZ": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "19:00:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVdn5GfqK5_Zq-Eca1M": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "20:00:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVe-ocf6OxOyn3lW-kF": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "21:00:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVeDWOIocnoOWUvrcTB": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "22:00:11",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVeEeYGbuTXrrDWdHoi": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "22:05:21",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVeEg0uWihrC5LXmgCp": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "22:05:32",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVeEi7tv75Qzo6I27yk": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "22:05:41",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVeRHsJoHGyE1PQ9xQ0": {
+      "Tanggal": "17-5-2023",
+      "Waktu": "23:00:22",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVedzrF3j88hqdHSVyA": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "00:00:15",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVerjOTIYHYjogw4Ro-": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "01:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVf4QvsBhB8ELnF5H-1": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "02:00:08",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVfICgC7gOpURjP-IGc": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "03:00:20",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVfVwhToUtK8JXaxQzz": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "04:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVfifP8ojfqRGzcGaRR": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "05:00:19",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVfiuESH_ZdTYkkzNth": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "05:01:31",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVfiw0kCZJ8hP9tC9LG": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "05:01:40",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVfwNuo0S_6naPgF6uZ": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "06:00:13",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVg95BrsUXASxIsZgJF": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "07:00:07",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVgI7kyPnx2aMW1m6Kh": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "07:32:04",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVgINT93D3T9E3uRRml": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "07:34:05",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVgMs_T2_T20DGPvUUR": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "08:00:22",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVgN6IWIKVmdFzyEWTQ": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "08:01:35",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVgN81mnUSkzLul1vPy": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "08:01:41",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVg_aD-bFopM-UTHzeZ": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "09:00:16",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVgnOcMtxJclY_5FLUg": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "10:00:32",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVh06mL3PLmuDEuW8GM": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "11:00:28",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVhDpGDbhF6IwaKhYbk": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "12:00:21",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVhJDtvYKO0HjVnkuPQ": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "12:24:13",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVhRXQ6geE52Qk_FVY9": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "13:00:16",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVheFQW991Uqz234cPt": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "13:30:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVhfPDe8mvr_Q7zXypP": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "14:00:31",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVhs-mFhMFLcqVJ03PZ": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "15:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVi4jjW37LsYBZNXxWo": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "16:00:19",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NViEmFHu_rmhV_CxokF": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "16:33:34",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NViEo0cMcCc6nB2TOxe": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "16:35:45",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NViIQtTJHdBT17omzyJ": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "17:00:08",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NViKns09_Mlns3TBVq6": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "17:05:15",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NViKpTUO3Rzr5g6mJAD": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "17:06:05",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NViSGUAPsyteOWK_6NO": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "17:43:15",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NViSI3d1I05iwKgDm1q": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "17:44:45",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NViWAk99gq0d0n287IF": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "18:00:11",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NViiwyw7xdp_-IFTGD7": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "19:00:22",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NViwextdTGevZQcIjfG": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "20:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVj9PQYHfXMcfJ9sZGj": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "21:00:19",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVjN5nuV-7k8Flcg44J": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "22:00:09",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVjP9TR2qugIgvbb_iF": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "22:02:06",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVjPBOmjsA77mvDxHxD": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "22:03:50",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVjaYOMNlOmgnTqQgMg": {
+      "Tanggal": "18-5-2023",
+      "Waktu": "23:00:09",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVjncLjOmTmbAmLywBx": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "00:00:25",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVk0HzU9Ikc0dcM8z6R": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "01:00:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVkE2ZhOrl_ajeuCRh4": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "02:00:14",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVkRm15B15EDvYQNQoQ": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "03:00:12",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVkeUeebo57Xx6GN5VV": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "04:00:07",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVksGDP8MRhbp_hhcBG": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "05:00:18",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVl4zQp7JquOrmcgatu": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "05:01:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVlIizk0KFTJPzL5vX3": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "06:00:18",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVlW7OiPCfpVp0G2MIa": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "07:00:10",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVlW9R28BKNrySDgBnr": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "07:31:15",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVlWBCMv8pl_IgVE_pr": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "07:33:14",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVlWDdU1YeLTmkU8zoi": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "08:02:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVlWRvG6PQ-ARmj-vuz": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "08:05:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVljBsigPqVkEUlHw4V": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "09:00:18",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVlwvDAayPTk3yfj0oN": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "10:00:15",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVm9dK3Pjg4CbL7fBU9": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "11:00:12",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVmNOMHDkUeH2kjO5sP": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "12:00:17",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVmT1T0Z2nBpd9GPmRh": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "12:25:11",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVma7aNPTLa719nMqOZ": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "13:00:18",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVmfyABhYDJXGPdWEnO": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "13:26:00",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVmnunj-Be6mqRff4pQ": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "14:00:26",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVn0b9iylX2QyZkc3oN": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "15:00:21",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVnEJ4-yNG3ggg4bJWd": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "16:00:13",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVnL5_W0o71hfBp8IbR": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "16:30:11",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "mati",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVnL7S2aoQrQqEPjnMI": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "16:31:10",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVnS3xYTFkx1YXEpaHV": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "17:00:21",
+      "dapur": "mati",
+      "kamar": "mati",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVnSO_igZ0pk__5NuoA": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "17:02:12",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "mati"
+    },
+    "-NVnSTVsN1GDI-j9G4-5": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "17:03:00",
+      "dapur": "hidup",
+      "kamar": "mati",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVnabAUOyjOn1sQ5XF4": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "17:42:05",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "mati",
+      "toilet": "hidup"
+    },
+    "-NVnae1hu5t-cUs1Gyn5": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "17:43:00",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVneoHz7e13bVIZxjzJ": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "18:00:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVnsYK3HEyNDULqzqkK": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "19:00:23",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVo5NSdwrIhSAJ2PL7c": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "20:00:24",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVoIxOOFlsQ5KaddldM": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "21:00:08",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVoWiSA7R7aEYx4LXGC": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "22:00:17",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "hidup",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVoWyzcDsEy3P5dKpH3": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "22:01:40",
+      "dapur": "hidup",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVoX0Dvco6BgWecq7Rd": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "22:01:46",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "hidup",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVoX1ki3tDSX3flyCzM": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "22:01:55",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    },
+    "-NVojS6JARgKvbZ00f5-": {
+      "Tanggal": "19-5-2023",
+      "Waktu": "23:00:16",
+      "dapur": "mati",
+      "kamar": "hidup",
+      "kamar2": "mati",
+      "ruangtamu": "mati",
+      "teras": "hidup",
+      "toilet": "hidup"
+    }
+  }
+}
