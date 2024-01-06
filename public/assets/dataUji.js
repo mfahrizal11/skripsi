@@ -1,15 +1,15 @@
 $(document).ready(function () {
-    const config = {
-
-        apiKey: "AIzaSyAThfImJZpVTK5Zm9SAIiZ-yeIGL2NAQjY",
-        authDomain: "skripsi-6a6f2.firebaseapp.com",
-        databaseURL: "https://skripsi-6a6f2-default-rtdb.firebaseio.com",
-        projectId: "skripsi-6a6f2",
-        storageBucket: "skripsi-6a6f2.appspot.com",
-        messagingSenderId: "257791345812",
-        appId: "1:257791345812:web:86e2954521a30521b9a081",
-        measurementId: "G-9M95CDD0J8"
-    };
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+    apiKey: "AIzaSyDSS7Wew4smBVU4JjIIPNUk4_gFx8mvetk",
+    authDomain: "skripsilampu.firebaseapp.com",
+    databaseURL: "https://skripsilampu-default-rtdb.firebaseio.com",
+    projectId: "skripsilampu",
+    storageBucket: "skripsilampu.appspot.com",
+    messagingSenderId: "108591468141",
+    appId: "1:108591468141:web:1d05f7c26550486d7ab964",
+    measurementId: "G-0Z6N7Y73E0"
+  };
     firebase.initializeApp(config);
 
     var filaEliminada;

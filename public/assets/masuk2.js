@@ -1,22 +1,29 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-app.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js";
 
-import { getAuth, signInWithEmailAndPassword, } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-auth.js";
+import { getAuth, createUserWithEmailAndPassword, } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-auth.js";
+
+import { getDatabase, set, ref, update } from "https://www.gstatic.com/firebasejs/10.7.0/firebase-database.js";
+
+
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-
 const firebaseConfig = {
-  apiKey: "AIzaSyDJInWciPDOdJLOj1JvUs3QzVKMQPsMTEo",
-  authDomain: "lampu-9ea22.firebaseapp.com",
-  databaseURL: "https://lampu-9ea22-default-rtdb.firebaseio.com",
-  projectId: "lampu-9ea22",
-  storageBucket: "lampu-9ea22.appspot.com",
-  messagingSenderId: "490245677046",
-  appId: "1:490245677046:web:15f7d71e093b99d5f7f1d7"
+  apiKey: "AIzaSyDSS7Wew4smBVU4JjIIPNUk4_gFx8mvetk",
+  authDomain: "skripsilampu.firebaseapp.com",
+  databaseURL: "https://skripsilampu-default-rtdb.firebaseio.com",
+  projectId: "skripsilampu",
+  storageBucket: "skripsilampu.appspot.com",
+  messagingSenderId: "108591468141",
+  appId: "1:108591468141:web:1d05f7c26550486d7ab964",
+  measurementId: "G-0Z6N7Y73E0"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
+const database = getDatabase(app);
 
 var email = document.getElementById("emailLogin");
 var password = document.getElementById("passwordLogin");
